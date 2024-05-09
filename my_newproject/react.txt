@@ -1,0 +1,6 @@
+node -v
+npm -v
+npx create-react-app react-demo --use-npm
+(search for folder and open it)
+
+npm start
